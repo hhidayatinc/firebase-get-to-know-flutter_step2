@@ -8,3 +8,10 @@
 ![5](images/5.jpeg)![5-1](images/5-1.jpeg)
 ![5-2](images/5-2.png)
 
+- Baca pesan
+![6](images/6.jpeg)
+
+- Catat Status RSVP Peserta
+![7](images/7.jpeg)
+![7-1](images/7-1.jpeg)
+
